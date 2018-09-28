@@ -8,8 +8,8 @@ To make SVUCE students standout in national and world competitions / hackathon w
 To give students the ability to implement their technical ideas, give freshmen students overview of computer science and programming, and organizing workshops or sessions on competitive programming, GSoC, ACM-ICPC, etc.
 
 ## Activities:
-Every Thursday, all club members come together to participate in some activities like Mock Interviews, Technical presentations, Distinguished Speakers Lectures, open source awareness, freshmen orientation sessions, and <br>
-Saturday activities like online quizzes, competitive coding, small projects, assignments, leveraging platforms like hackerank, spoj, codechef, interviewbit, leetcode, etc
+Every Thursday, all club members come together to participate in some activities like Mock Interviews, Technical presentations, Distinguished Speakers Lectures, open source awareness, freshmen orientation sessions, tech weekends, math-a-thons and <br>
+Saturday activities like online quizzes, competitive coding, small projects, assignments, leveraging platforms like hackerank, spoj, codechef, interviewbit, leetcode, etc.
 
 ## Tentative Schedule:
 ( Either by resource persons, faculty or by video links )
@@ -26,11 +26,14 @@ Paths, careers, opportunities, emerging technologies overview,
 #### 9. Database is our goldmine
 #### 10. World of competitive programming.
 #### 11. Algorithms and how to learn them
-#### 12. 
+#### 12. Mathematics for coding
+#### 13. Standard Template Library in C++
 
 ## Selection Process:
 
 ## Present Team: 
+- [Siddish Iragamreddy](https://www.linkedin.com/in/siddish-reddy-iragam-reddy/)
+- [Veera Kesava](https://www.linkedin.com/in/veerakesava-reddy-279003154/)
 
 ## Cool Resources (Required!):
 1. [CS50 on edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) or [cs50 2018's playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) **This is most important**
