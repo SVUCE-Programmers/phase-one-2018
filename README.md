@@ -2,7 +2,7 @@
 Coding club schedule, resources, activities for 2018
 
 ## Vision:
-To make SVUCE students standout in national and world competitions / hackathon with multi-disciplinary projects, research in a fun, interactive and collaborative way.
+To make SVUCE students standout in national and world competitions / hackathon with multi-disciplinary projects, research in a fun, interactive way and collaborative with other departments of Sri Venkateswara University.
 
 ## Mission:
 To give students the ability to implement their technical ideas, give freshmen students overview of computer science and programming, and organizing workshops or sessions on competitive programming, GSoC, ACM-ICPC, etc.
@@ -34,7 +34,11 @@ Paths, careers, opportunities, emerging technologies overview,
 ## Present Team: 
 - [Siddish Iragamreddy](https://www.linkedin.com/in/siddish-reddy-iragam-reddy/)
 - [Veera Kesava](https://www.linkedin.com/in/veerakesava-reddy-279003154/)
+- Interested? Ping me now!
 
+## Advisors:
+- [BackBuckle](https://backbuckle.io/)
+- 
 ## Cool Resources (Required!):
 1. [CS50 on edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) or [cs50 2018's playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) **This is most important**
 2. [CS101 Stanford](https://web.stanford.edu/class/cs101/index.html#schedule)
