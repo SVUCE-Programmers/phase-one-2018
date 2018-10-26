@@ -44,12 +44,12 @@ Paths, careers, opportunities, emerging technologies overview,
 ## Track - VI - ML Team
 Long journey ahead, don't turn around.
 ( With the help of [DataCamp free plan for students](https://www.datacamp.com/groups/education), Coursera financial aids)
-
 #### 0. Tour of AI 
 [Intro to AI | Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
 #### 1. Scientifical Computing with Python
-[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+FOSSEE, IIT B [Python self workshop](https://python-workshops.fossee.in/self_workshop)
 #### 2. Intermediate Python
+[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 #### 3. Numpy, pandas, Scipy, Matplotlib
 #### 4. Essence of Linear Algebra 
 #### 5. Probability and Stat 101
@@ -82,3 +82,4 @@ Long journey ahead, don't turn around.
 6. [Technical Development Guide, Google](https://github.com/ECB-Bikaner/google-guide-to-technical-development) original source was deleted [new one here](https://techdevguide.withgoogle.com/)
 7. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 8. For practicing real interview questions [Interviewbit](http://bit.ly/2NFivLT)
+9. FOSSEE, IIT B [Python self workshop](https://python-workshops.fossee.in/self_workshop)
