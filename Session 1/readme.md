@@ -10,5 +10,5 @@ on 10-10-2018
 - How to learn hacking with us
 - Conclusion by announcing support to Coding Club
 ### Supporting Materials:
-[OWASP Top 10 2017](/OWASP_Top_10_2017_RC2_Final.pdf)
+[OWASP Top 10 2017](OWASP_Top_10_2017_RC2_Final.pdf)
 
