@@ -15,16 +15,7 @@ Saturday activities like online quizzes, competitive coding, small projects, ass
 ( Either by resource persons, faculty or by video links )
 ( Some may require prerequisites)
 ## Track - I - Web Devs
-#### 1. Introduction to programming outside academics
-Paths, careers, opportunities, emerging technologies overview, 
-#### 2. Different languages and Open source for you (with git)
-#### 3. Web Foundations (Intro to Internet, HTML, and stuff)
-#### 4. Brace yourself, CSS is coming!
-#### 5. Hail JavaScript
-#### 6. Web with JavaScript
-#### 7. Projects Showcase
-#### 8. Intro to Back-end with node.js
-#### 9. Database is our goldmine
+[Path and resources](Web%20Development.md)
 
 ## Track - II - Hardcore Coders
 #### 1. World of competitive programming.
@@ -60,7 +51,8 @@ FOSSEE, IIT B [Python self workshop](https://python-workshops.fossee.in/self_wor
 #### 9. Unsupervised Learning with a project
 #### 10. TBC
 
-## Selection Process:
+## Constitution:
+[Coding Club Constitution](bit.ly/CConstitution)
 
 ## Present Team: 
 - [Siddish Iragamreddy](https://www.linkedin.com/in/siddish-reddy-iragam-reddy/)
