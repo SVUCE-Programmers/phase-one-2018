@@ -30,6 +30,11 @@ Long journey ahead, don't turn around.
 - [Veera Kesava](https://www.linkedin.com/in/veerakesava-reddy-279003154/)
 - Pallavi G
 - Rajeswari
+- Hemanth G
+- Narsareddy
+- Venu Madhav
+- Sai Kumar
+- 
 - Interested? Ping me now!
 
 ## Advisors:
