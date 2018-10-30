@@ -14,45 +14,16 @@ Saturday activities like online quizzes, competitive coding, small projects, ass
 # Tentative Schedule:
 ( Either by resource persons, faculty or by video links )
 ( Some may require prerequisites)
-## Track - I - Web Devs
-[Path and resources](Web%20Development.md)
-
-## Track - II - Hardcore Coders
-#### 1. World of competitive programming.
-#### 2. Algorithms and how to learn them
-#### 3. Mathematics for coding
-#### 4. Standard Template Library in C++
-
-## Track - III - Android Devs 
-(Coming soon)
-
-## Track - IV - Hackers 
-(coming soon)
-
-## Track - V - Makers 
-(coming soon)
-
-## Track - VI - ML Team
+### Track - I - [Web Devs](Web%20Development.md)
+### Track - II - [Competitive Coders](Competitive_Programming.md)
+### Track - III - [Android Devs](Android_Development.md)
+### Track - IV - [Hackers](Information_security.md)
+### Track - V - [Makers](IoT.md)
+### Track - VI - [ML Team](Machine_Learning.md)
 Long journey ahead, don't turn around.
-( With the help of [DataCamp free plan for students](https://www.datacamp.com/groups/education), Coursera financial aids)
-#### 0. Tour of AI 
-[Intro to AI | Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
-#### 1. Scientifical Computing with Python
-FOSSEE, IIT B [Python self workshop](https://python-workshops.fossee.in/self_workshop)
-#### 2. Intermediate Python
-[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
-#### 3. Numpy, pandas, Scipy, Matplotlib
-#### 4. Essence of Linear Algebra 
-#### 5. Probability and Stat 101
-#### 6. Differential Equations
-[MIT Differential Equations Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
-#### 7. [Machine Learning by Andrew NG | Coursera](https://www.coursera.org/learn/machine-learning)
-#### 8. Supervised Learning with a project
-#### 9. Unsupervised Learning with a project
-#### 10. TBC
 
 ## Constitution:
-[Coding Club Constitution](bit.ly/CConstitution)
+[Coding Club Constitution](http://bit.ly/CConstitution)
 
 ## Present Team: 
 - [Siddish Iragamreddy](https://www.linkedin.com/in/siddish-reddy-iragam-reddy/)
@@ -62,9 +33,15 @@ FOSSEE, IIT B [Python self workshop](https://python-workshops.fossee.in/self_wor
 - Interested? Ping me now!
 
 ## Advisors:
-- [BackBuckle](https://backbuckle.io/)
-- Zraddha
-- 
+- Prof. Marutheeswar (IGNITE co-ordinator), 
+- Prof. Vivekananda Reddy (Faculty Advisor),
+- Hari Muralidhar Sir (Zraddha co-founder, Information security expert)
+- Giridhar Gadhiraju ( Group CEO Venusgeo, 7inQ incubator)
+- Adi Vemuri ( Co-founder Fresh Qube)
+- Sunil Abbiraju ( BackBuckle team)
+- Hareesh K ( Web Apps Expert)
+and many Alumni and Industry experts.
+
 ## Cool Resources (Required!):
 1. [CS50 on edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) or [cs50 2018's playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) **This is most important**
 2. [CS101 Stanford](https://web.stanford.edu/class/cs101/index.html#schedule)
