@@ -13,3 +13,5 @@ Ability to troubleshoot basic host connectivity issues
 - Basic understanding of cloud infrastructure
 Have launched a VM using one of the major cloud-services providers (AWS or GCP)
 Have configured SSH key-based authentication and connected to the VM, configured the firewall
+
+[Some free books](https://github.com/InnovativeCoder/Essential-Books/tree/master/Cybersecurity)
