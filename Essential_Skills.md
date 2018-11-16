@@ -25,6 +25,7 @@ Here all the essential skills required to become a developer are covered
   - Functional Programming
   - Object Oriented Programming
   - Declarative and Imperative Programming
+- Design Patterns [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md)
 - Writing Clean Code ('Clean code' by Robert C. Martin)
 - TBA
    
