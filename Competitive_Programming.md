@@ -21,6 +21,6 @@ Just revise Linear Algebra, Combinatorics (Kenneth's DMS) and every 1 out of 2 w
 #### 4. Standard Template Library in C++
 
 ### Resources:
-[Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials/)
-[Trainig Sheet for Juniors in Competitive Programming](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing)
+- [Competitive Programming](https://www.topcoder.com/community/competitive-programming/tutorials/)
+- [Trainig Sheet for Juniors in Competitive Programming](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing)
 If you want soft copies, you know where to ask!
