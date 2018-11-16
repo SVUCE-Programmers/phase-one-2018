@@ -1,6 +1,6 @@
 ## Track - II - Competitive Coders
 TL;DR
-[One stop bookmark for Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+[One stop bookmark for Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) <br/>
 You are in the jungle. You have a pocket-knife. Someone asks you to kill a mountain lion.
 
 Years of training has taught you well. You use your knife to sharpen a stick. You cut vines to lash sharp stones on one end. Maybe you're from a top university, and you've learned to extract essential ingredients from plant and insect life around you to fashion a poison to tip your weapon with. 
