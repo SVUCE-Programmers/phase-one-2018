@@ -1,11 +1,49 @@
 ## Track - I - Web Devs
+Learning areas: FreeCodeCamp, Udacity, annd for ones you have to pay you know where to ask <br/>
 [Front End Handbook](https://frontendmasters.com/books/front-end-handbook/2018)
- 1. Introduction to programming outside academics
- 2. Different languages and Open source for you (with git)
- 3. Web Foundations (Intro to Internet, HTML, and stuff)
- 4. Brace yourself, CSS is coming!
- 5. Hail JavaScript
- 6. Web with JavaScript
- 7. Projects Showcase
- 8. Intro to Back-end with node.js
- 9. Database is our goldmine
+ - Introduction to programming outside academics
+ - Different languages and Open source for you (with git)
+   - Basic Unix Commands, Tools setup
+   - Why Git, How Git Works, Basic Git Commands
+   - Branching, Developer tool features
+ - Web Foundations (Intro to Internet, HTML, and stuff)
+ - Brace yourself, CSS is coming!
+   - UI, Tags, Elements, Attributes, Box model,
+   - Positioning, Typography, Layout, Lists,
+   - Media, Forms, Tables, Organization,
+   - Complex Selectors, Responsive, Grid, Flex
+   - Preprocessor (SCSS), Transforms, Transitions
+   - Animations, Advanced CSS Techniques
+ - Hail JavaScript
+ - Web with JavaScript
+    - Variables, Types, Operators, Conditional
+    - Objects, Arrays, Variables, Functions, Scope
+    - Closure, Hoisting, Regex, This, Constructor
+    - Higher Order Functions, Arrow Functions
+    - Object Prototypes, Prototypal Inheritance
+    - Async, Callbacks, Promise, Ajax, Modules
+    - ES6, Block-Scoped Declarations, Spread
+    - jQuery, DOM, Event Handling, Canvas, NPM
+ - Projects Showcase
+ - Intro to Back-end with node.js
+    - How web works, Client Server model
+    - NodeJS, Event model, File system
+    - Routing, MVC, Templating, Middleware
+    - Error Handling, REST API, GraphQL
+    - Aggregation framework, Authentication
+    - Oauth, Caching, Real-time using sockets
+    - Deployment 
+ - Database is our goldmine
+    - Schema, Tables, Collection, CRUD, Indexing
+    - Joins, Relationships, Transactions
+ - React
+   - JSX, Components, Props, State, Refs
+   - State Management, Lifecycle Methods, Events
+   - Conditional Rendering, Lists, Routing, Forms
+   - Thinking in React, Containers, Why Redux
+   - Actions, Reducers, Store
+   - Async Flow, Async Actions, Middlewares
+ - Design Patterns
+   - Constructor, Module, Singleton Pattern
+   - Observer, Mediator, Prototype, Command
+   - Facade, Factory, Mixin, Decorator Pattern
