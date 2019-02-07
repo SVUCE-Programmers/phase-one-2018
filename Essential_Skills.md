@@ -1,7 +1,7 @@
 # General Track
 Here all the essential skills required to become a developer are covered
 ### Path
-- Introduction to Computer Science ('Introduction to Computer Science' by CLRS)
+- Introduction to Computer Science ('Introduction to Algorithms' by CLRS)
   - Complexity & Asymptotic Notation
   - Mathematical Background
   - Recursion & Divide and Conquer
